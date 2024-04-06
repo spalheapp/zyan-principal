@@ -285,7 +285,7 @@ body {
 }
 
 .container aside .centralize form .salvar .styled-checkbox:checked + label:before {
-  background: #d13639;
+  background: #000000;
 }
 
 .container aside .centralize form .salvar .styled-checkbox:checked + label:after {
