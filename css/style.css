@@ -116,11 +116,11 @@ body {
 
 .container aside .centralize .topo .aviso .tooltip p a {
   text-decoration: none;
-  color: #d5484b;
+  color: #0FE411;
 }
 
 .container aside .centralize .topo .aviso .tooltip p a svg {
-  color: #d5484b;
+  color: #0FE411;
   position: absolute;
   margin-top: -6px;
 }
