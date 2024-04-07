@@ -454,5 +454,9 @@ body {
   .container .background .window-buttons, .container .background .footer {
     display: none;
   }
+
+  .c-logo {
+  width: 108px;
+} 
 }
 /*# sourceMappingURL=style.css.map */
